@@ -11,8 +11,8 @@ Mow the Zombies!
 
 <p float="left">
 
-<img src="Screenshots/unnamed-1.png" width=30% height=30%>
 <img src="Screenshots/unnamed-2.png" width=30% height=30%>
+<img src="Screenshots/unnamed-3.png" width=30% height=30%>
 <img src="Screenshots/unnamed.png" width=30% height=30%>
 
 </p>
